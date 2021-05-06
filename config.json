@@ -1,0 +1,6 @@
+{
+  "APCA_API_KEY_ID" : "PKXJSKSQQS2VAQOEZRB6",
+  "APCA_API_SECRET_KEY" : "oYSpOLOqtKn6ME4K3dxmYbrpT70lYi4mVWBf0MNU",
+  "PAPER_TRADING_URL" : "https://paper-api.alpaca.markets/v2/",
+  "DATA_URL" : "https://data.alpaca.markets/v1/"
+}

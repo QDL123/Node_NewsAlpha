@@ -1,0 +1,32 @@
+{
+  "name": "node_newsalpha",
+  "version": "1.0.0",
+  "description": "Node version of the news alpha server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "alpha",
+    "news",
+    "marx",
+    "buy",
+    "sell",
+    "stock",
+    "streaming",
+    "web",
+    "sockets",
+    "redis"
+  ],
+  "author": "Quintin Leary",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "websocket": "^1.0.33",
+    "ws": "^7.4.2"
+  }
+}
